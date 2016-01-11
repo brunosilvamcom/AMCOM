@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Loca qualquer
 eaiiiiiiiiii
+=======
+123
+eaiiiiiiiiiii
+>>>>>>> 7ec4eded11a9bcb96e4a081d0ba3d20ed7d210a6
